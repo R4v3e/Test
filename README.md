@@ -1,7 +1,7 @@
 # 
 W wersji build for linux \test_Data\StreamingAssets jest zamienione na \test_linux_Data\StreamingAssets
 
-\test_Data\StreamingAssets - main asset folder
+\test_Data\StreamingAssets - main asset folder <BR \>
 \test_Data\StreamingAssets\YOURFOLDER - folder na pytania
 \test_Data\StreamingAssets\YOURFOLDER\plikX - folder na pytania nr. X
 \test_Data\StreamingAssets\YOURFOLDER\plikX\pytanie.txt - dokument txt z pytaniem
