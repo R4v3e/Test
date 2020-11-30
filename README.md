@@ -9,6 +9,6 @@ W wersji build for linux \test_Data\StreamingAssets jest zamienione na \test_lin
 \test_Data\StreamingAssets\YOURFOLDER\plikX\image.jpg - opcjonalny plik jpg dodawany do pytania<br />
 <br />
 \test_Data\StreamingAssets\Questions\settings.txt - dokument w ktorym okreslamy ilosc pytan oraz nazwe folderu z pytaniami <br />
-  1. linijka ilość pytańdo wytświetlenia; (nie uzywac wiekszej liczby niz ilosc folderow plikX!)<br />
+  1. linijka ilość pytań do wytświetlenia; (nie uzywac wiekszej liczby niz ilosc folderow plikX!)<br />
   2. linijka nazwa folderu  (YOURFOLDER);<br />
 \test_Data\StreamingAssets\standardimage.jpg - standardowy obraz uzywany kiedy nie ma okreslonego zdjecia dla danego pytania<br />
