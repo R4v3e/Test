@@ -1,6 +1,6 @@
 # WERSJA BUILD_v2_0 Działa na bazie .xml nie na folderach! zdjęcia dodawane są poprzez wstawienie pliku imageX.jpg do folderu imagefolder, gdzie X oznacza numer pytania
 # oraz wpisanie nazwy zdjęcia w bazie przy 
-"\<questions\> \<question\> \<answers\> \<image\> \<name\>tutaj nazwa zdjęcia</name></image></answers></question></questions>" 
+"\<questions\> \<question\> \<answers\> \<image\> \<name\>tutaj nazwa zdjęcia\</name\>\</image\>\</answers\>\</question\>\</questions\>" 
 W wersji build for linux \test_Data\StreamingAssets jest zamienione na \test_linux_Data\StreamingAssets<br />
 <br />
 \test_Data\StreamingAssets - main asset folder <br />
